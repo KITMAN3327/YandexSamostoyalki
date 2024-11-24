@@ -1,4 +1,4 @@
-import sys
+import PyQt6
 # Задача 1
 
 #Ввод	стандартный ввод
